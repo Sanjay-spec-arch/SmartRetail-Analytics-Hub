@@ -1,0 +1,12 @@
+.env
+.env.txt
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+gcp_key.json
+gcp_key.json.json
+data/raw/
+data/processed/
+.DS_Store
